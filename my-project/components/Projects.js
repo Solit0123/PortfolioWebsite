@@ -26,7 +26,7 @@ function Projects() {
                         </div>
                         <div className="bg-blue-100 flex flex-wrap justify-evenly">
                              <img src="./reactlogo.svg" width="60px" height="60px" alt="" />
-                             <img src="./next.svg"  width="60px" height="60px"  alt="" />
+                             <img src="./next.svg"  width="50px" height="40px"  alt="" />
                             <img src="./logos_bootstrap.svg"  width="60px" height="60px"  alt="" />
                             <img src="./group.svg"  width="188" height="60"  alt="" />
                             <img src="./aaaa.svg"  width="188" height="60"  alt="" />
@@ -94,8 +94,10 @@ function Projects() {
                         </div>
                         <div className="bg-blue-100 flex flex-wrap  justify-evenly">
                              <img src="./reactlogo.svg" width="60px" height="60px" alt="" />
-                             <img src="./next.svg"  width="60px" height="60px"  alt="" />
+                             <img src="./next.svg"  width="50px" height="40px"  alt="" />
                             <img src="./tailwind.svg"  width="188" height="60"  alt="" />
+                            <img src="./mapbox1.svg"  width="148" height="80"  alt="" />
+                            <img src="./Vercel.svg"  width="140px" height="80"  alt="" />
                         </div>
 
             </div>
