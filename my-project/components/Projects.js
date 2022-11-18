@@ -98,6 +98,7 @@ function Projects() {
                                     <img src="./tailwind.svg"  width="188" height="60"  alt="" />
                                     <img src="./mapbox1.svg"  width="148" height="80"  alt="" />
                                     <img src="./Vercel.svg"  width="140px" height="80"  alt="" />
+                                    <img src="./nextauth2.png"  width="260px" height="80"  alt="" />
                                 </div>
 
                     </div>
