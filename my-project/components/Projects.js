@@ -49,7 +49,7 @@ function Projects() {
                         
                         </div>
                         <div className="mt-14 ">
-                                <div className="inline-block hover:scale-[102%] hover:translate-x-1"><a className="hover:shadow-lg animation duration-150 ease-out  border-2 px-2 py-4 rounded-lg border-blue-400 bg-blue-300 font-bold" href="https://beela-phase-3-dqqnl71ad-techfleetworks.vercel.app/" target="_blank"> View Live Project</a></div>
+                                <div className="inline-block hover:scale-[102%] hover:translate-x-1"><a className="hover:shadow-lg animation duration-150 ease-out  border-2 px-2 py-4 rounded-lg border-blue-400 bg-blue-300 font-bold" href="https://www.beela.se/" target="_blank"> View Live Project</a></div>
                             </div>
                     </div>
 
