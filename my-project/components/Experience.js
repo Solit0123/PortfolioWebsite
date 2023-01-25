@@ -2,7 +2,7 @@
 
 function Experience() {
   return (
-    <div className=" bg-blue-50">
+    <div className=" bg-blue-100">
 
     
       <div className="container mx-auto flex flex-col text-center space-y-4 py-16">

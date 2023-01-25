@@ -10,6 +10,7 @@ function MyApp({ Component, pageProps }) {
     
 
     </Head>
+    <Script src="//embed.typeform.com/next/embed.js"></Script>
     <Script
       id="show-banner"
       strategy="afterInteractive"
