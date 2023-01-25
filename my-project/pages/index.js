@@ -15,7 +15,7 @@ export default function Home() {
     <Header2/>
 
     {/* <Hero/> */}
-    {/* <Experience/> */}
+    <Experience/>
     {/* <Projects/> */}
     {/* <OtherProjects/> */}
     {/* <Footer/> */}
