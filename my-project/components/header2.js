@@ -44,7 +44,7 @@ export default function header2() {
 
  <div  className="rounded-3xl shadow-lg  overflow-hidden ">
              <div className=" flex flex-col relative h-96 w-[100%]">
-                 <a href="https://www.beela.se/" target="_blank">
+                 <a href="https://www.desahogomarketing.com/" target="_blank">
                      <Image
                      src="/design1.jpg"
                      layout="fill"
