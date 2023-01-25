@@ -42,7 +42,7 @@ export default function header2() {
 <div className=" container max-w-6xl mx-auto  grid grid-cols-1 md:grid-cols-2 space-y-16 space-x-16">
  
 
- <div  className="rounded-3xl md:hover:shadow-lg md:hover:scale-105 md:transition md:duration-150 md:ease-out overflow-hidden ">
+ <div  className="rounded-3xl md:hover:shadow-lg  overflow-hidden ">
              <div className=" flex flex-col relative h-96 w-[100%]">
                  <a href="https://www.beela.se/" target="_blank">
                      <Image
@@ -81,7 +81,7 @@ export default function header2() {
         
 <div className=" container max-w-6xl mx-auto  grid grid-cols-1 md:grid-cols-2 space-y-16 space-x-16  mt-32">
     
-    <div  className="rounded-3xl md:hover:shadow-lg md:hover:scale-105 md:transition md:duration-150 md:ease-out overflow-hidden md:order-2">
+    <div  className="rounded-3xl md:hover:shadow-lg  overflow-hidden md:order-2">
             <div className=" flex flex-col relative h-96 w-[100%]">
                 <a href="https://beela-phase-3-dqqnl71ad-techfleetworks.vercel.app/" target="_blank">
                     <Image
