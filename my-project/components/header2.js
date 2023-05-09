@@ -204,15 +204,15 @@ export default function header2() {
 
 
 
-<h4 className="font-bold text-3xl lg:text-[40px] text-center my-14">Chat-GPT API Projects</h4>
-<div className=" container max-w-6xl mx-auto  grid grid-cols-1 md:grid-cols-2 space-y-16 space-x-16  mt-32">
+<h4 className="font-bold text-3xl lg:text-[40px] text-center mt-24">ChatGPT Projects:</h4>
+<div className=" container max-w-6xl mx-auto  grid grid-cols-1 md:grid-cols-2 space-y-16 space-x-16  mt-16">
 
 
 <div  className="rounded-3xl shadow-lg  overflow-hidden md:order-2">
         <div className=" flex flex-col relative h-96 w-[100%]">
             <a href="https://koloaselfstorage.com/" target="_blank">
                 <Image
-                src="/storage.jpeg"
+                src="/aa23.png"
                 layout="fill"
                 objectFit="cover"
                 objectPosition="center center"
@@ -236,7 +236,7 @@ export default function header2() {
     
     </div>
     <div className="mt-14 ">
-            <div className="inline-block hover:scale-[102%]  hover:translate-x-1 animation duration-350 ease-out"><a className="hover:shadow-lg   border-2 px-2 py-4 rounded-lg border-black font-bold" href="https://koloaselfstorage.com/" target="_blank"> View Live Project</a></div>
+            <div className="inline-block hover:scale-[102%]  hover:translate-x-1 animation duration-350 ease-out"><a className="hover:shadow-lg   border-2 px-2 py-4 rounded-lg border-black font-bold" href="https://chatgpt-1-translator.vercel.app/" target="_blank"> View Project</a></div>
         </div>
 </div>
 
