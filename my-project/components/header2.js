@@ -210,7 +210,7 @@ export default function header2() {
 
 <div  className="rounded-3xl shadow-lg  overflow-hidden md:order-2">
         <div className=" flex flex-col relative h-96 w-[100%]">
-            <a href="https://koloaselfstorage.com/" target="_blank">
+            <a href="https://chatgpt-1-translator.vercel.app/" target="_blank">
                 <Image
                 src="/aa23.png"
                 layout="fill"

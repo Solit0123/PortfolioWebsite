@@ -10,8 +10,8 @@ function MyApp({ Component, pageProps }) {
     
 
     </Head>
-    {/* <Script src="//embed.typeform.com/next/embed.js"></Script>
-    <Script id="show-banner"
+    {/* <Script src="//embed.typeform.com/next/embed.js"></Script> */}
+    {/* <Script id="show-banner"
       strategy="afterInteractive"
       dangerouslySetInnerHTML={{
         __html: `
@@ -36,6 +36,21 @@ function MyApp({ Component, pageProps }) {
       
         `, }}
     /> */}
+    <Script
+    id="HotJarAnalytics"
+    strategy='afterInteractive'
+    >
+      {`
+       (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3488778,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+      `}
+       </Script>
   <Component {...pageProps} />
 </div>
   )
