@@ -232,6 +232,7 @@ export default function header2() {
             <li>usefull for TRI-LINGUAL users.</li>
             <li>Translation done with Chat-GPT LLM</li>
             <li>React front end and Node.js backend</li>
+            <li>Hotjar Analytics installed for: heatmaps,surveys,and analytics.</li>
         </ul>
     
     </div>
